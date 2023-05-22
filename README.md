@@ -40,7 +40,7 @@ Reference: C. Liu, T. Arnon, C. Lazarus, C. Strong, C. Barrett, and M. Kochender
 ## Installation
 To download this library, clone it from the julia package manager like so:
 ```julia
-(v1.0) pkg> add https://github.com/sisl/NeuralVerification.jl
+(v1.0) pkg> add https://github.com/afronautsam/NeuralVerification.jl
 ```
 
 Please note that the implementations of the algorithms are pedagogical in nature, and so may not perform optimally.
