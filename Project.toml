@@ -26,7 +26,7 @@ FixedPointNumbers = "53c48c17-4a7d-5ca2-90c5-79b7896eea93"
 [compat]
 julia = ">= 1.5"
 LazySets = "1.57"
-JuMP = "0.19"
+JuMP = "0.21"
 
 [targets]
 test = ["Test", "Flux", "JLD2", "FixedPointNumbers"]
